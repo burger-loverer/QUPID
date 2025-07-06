@@ -41,8 +41,5 @@ export default function RootLayout() {
       </Stack>
       <StatusBar style="auto" />
     </ThemeProvider>
-    // <PrivyProvider appId="cm9y0il7g04zfju0nispi3x4n" clientId="client-WY5ixjQ1HAoVfbcgkVnwip6QSno1VtG8AttpyVyNfKnbT">
-    //   <Slot />
-    // </PrivyProvider>
   );
 }
